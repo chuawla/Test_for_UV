@@ -1,0 +1,10 @@
+# Add all files
+git add .
+
+# OR add specific files only
+git add eda.ipynb
+git add README.md
+git add requirements.txt
+git add data/
+git add src/
+git add main.py
